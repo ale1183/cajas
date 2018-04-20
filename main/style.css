@@ -20,4 +20,7 @@ body > div > div > div{
   background-color: yellow;
   width: 7.5em;
   height: 7.5em;
+  position: relative;
+  top: -7.5em;
+  left: -7.5em;
 }
